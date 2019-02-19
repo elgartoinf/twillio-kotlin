@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">twillio android</string>
+    <string name="permision">We need permissions of camera</string>
+    <string name="audio_permission">We need audio permissions</string>
+</resources>
